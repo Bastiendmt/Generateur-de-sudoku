@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1431264855 source:c:\users\bastien\documents\isn\sudloufdo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
